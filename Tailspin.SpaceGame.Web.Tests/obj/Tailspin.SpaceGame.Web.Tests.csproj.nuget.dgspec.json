@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web.Test/Tailspin.SpaceGame.Web.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web.Test/Tailspin.SpaceGame.Web.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web.Test/Tailspin.SpaceGame.Web.Tests.csproj",
+        "projectName": "Tailspin.SpaceGame.Web.Tests",
+        "projectPath": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web.Test/Tailspin.SpaceGame.Web.Tests.csproj",
+        "packagesPath": "/Users/joshuajohanning/.nuget/packages/",
+        "outputPath": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web.Test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/joshuajohanning/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/jjohanning0798/PartsUnlimited/_packaging/PartsUnlimited/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
