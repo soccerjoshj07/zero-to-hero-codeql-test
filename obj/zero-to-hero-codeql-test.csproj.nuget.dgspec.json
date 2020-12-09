@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/CICalc/CICalc.csproj": {}
+    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/zero-to-hero-codeql-test.csproj": {}
   },
   "projects": {
-    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/CICalc/CICalc.csproj": {
+    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/zero-to-hero-codeql-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/CICalc/CICalc.csproj",
-        "projectName": "CICalc",
-        "projectPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/CICalc/CICalc.csproj",
+        "projectUniqueName": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/zero-to-hero-codeql-test.csproj",
+        "projectName": "zero-to-hero-codeql-test",
+        "projectPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/zero-to-hero-codeql-test.csproj",
         "packagesPath": "/Users/joshuajohanning/.nuget/packages/",
-        "outputPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/CICalc/obj/",
+        "outputPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -40,21 +40,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Components.WebAssembly": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "System.Net.Http.Json": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -65,23 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "browser-wasm": {
-          "#import": []
         }
       }
     }
