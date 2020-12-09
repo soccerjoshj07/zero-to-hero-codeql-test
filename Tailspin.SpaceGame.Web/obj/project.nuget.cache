@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+MepJJRJg+O9RbK1DXfmwFyd3qFkXRHEaS9IJ978wMUhU6MZcx8lhatQQLnPX4l+M4n5axByPlQIui0bfrsWQ==",
+  "dgSpecHash": "g7EJsQrvvujFOuJgrb0WqwbbYeyjAp0QA+HsEhQhC2y9yMIAi2yUhdfc0hj8P8ODVYzH4oGurIw/z4rvPbrHwQ==",
   "success": true,
-  "projectFilePath": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+  "projectFilePath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
   "expectedPackageFiles": [
     "/Users/joshuajohanning/.nuget/packages/microsoft.applicationinsights/2.15.0/microsoft.applicationinsights.2.15.0.nupkg.sha512",
     "/Users/joshuajohanning/.nuget/packages/microsoft.applicationinsights.aspnetcore/2.15.0/microsoft.applicationinsights.aspnetcore.2.15.0.nupkg.sha512",

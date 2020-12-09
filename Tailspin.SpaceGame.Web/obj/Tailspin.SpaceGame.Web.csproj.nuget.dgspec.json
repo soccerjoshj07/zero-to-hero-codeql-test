@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {}
+    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {}
   },
   "projects": {
-    "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {
+    "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+        "projectUniqueName": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
         "projectName": "Tailspin.SpaceGame.Web",
-        "projectPath": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
+        "projectPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/Tailspin.SpaceGame.Web.csproj",
         "packagesPath": "/Users/joshuajohanning/.nuget/packages/",
-        "outputPath": "/Users/joshuajohanning/Repos/test/mslearn-tailspin-spacegame-web-deploy/Tailspin.SpaceGame.Web/obj/",
+        "outputPath": "/Users/joshuajohanning/Repos/test/zero-to-hero-codeql-test/Tailspin.SpaceGame.Web/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
